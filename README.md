@@ -8,4 +8,4 @@
 
 
 <h1>燈帶原理圖：</h1>
-<h2>platformio項目名稱：暫時未做，打算用arduino的fast Led library對WS2818b編程，感興趣可以直接在學會群聯係我</h2><br>
+<h2>platformio項目名稱：暫時未做，打算用arduino的FastLed library對WS2818b編程，感興趣可以直接在學會群聯係我</h2><br>
